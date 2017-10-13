@@ -9,5 +9,7 @@
 <body>
 平井はバカ
 平井　1000
+HirokiHirai
+moka9810
 </body>
 </html>
