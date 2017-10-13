@@ -7,9 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-平井はバカ
-平井　1000
+å¹³äºã¯ãã«
+å¹³äºã1000
 HirokiHirai
 moka9810
+ひろき
 </body>
 </html>
