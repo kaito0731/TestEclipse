@@ -7,8 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-å¹³äºã¯ãã«
-aaa
-ああ
+平井はバカ
+平井　1000
 </body>
 </html>
