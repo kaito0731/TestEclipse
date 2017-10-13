@@ -8,5 +8,6 @@
 </head>
 <body>
 平井はバカ
+平井　1000円
 </body>
 </html>
