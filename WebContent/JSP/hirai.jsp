@@ -9,6 +9,6 @@
 <body>
 平井はバカ1
 平井　1000
-hirok
+hiro
 </body>
 </html>
